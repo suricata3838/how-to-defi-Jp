@@ -36,6 +36,8 @@
     "grunt-contrib-clean": "^2.0.0",
     "grunt-shell": "^3.0.1",
     "js-yaml": "^3.13.1",
-    "load-grunt-tasks": "^4.0.0"
+    "load-grunt-tasks": "^4.0.0",
+    "minimist": ">=1.2.3",
+    "kind-of": ">=6.0.3"
   }
 }
